@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="white">White</string>
+    <string name="checkbox">Check for yes or check for no</string>
+    <string name="textBox">Hmmmm, yes indeed this is
+        definitely a fine textbox if I do say so myself</string>
+</resources>
